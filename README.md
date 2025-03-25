@@ -13,3 +13,5 @@ Once all "change" is used up, the "cash register" will set to "closed".
 This is a project for the "JavaScript Algorithms & Data Structures" certification by freeCodeCamp.org
 
 Check the "Wiki" page to see documentation, there are also notes in the code to help understanding.
+
+![image](https://github.com/user-attachments/assets/2f1d8fe2-8fa0-418c-b62a-cfc1bfce953b)
